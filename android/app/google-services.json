@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "878160137407",
+    "project_id": "quick-chat-30977",
+    "storage_bucket": "quick-chat-30977.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878160137407:android:d31428eed587170ac40a0a",
+        "android_client_info": {
+          "package_name": "com.surya.chater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878160137407-lg97ck5vve524a7orgnf8iuducdumkhl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtkf503CGTrCQy_ljJPQ7VeVUQMH0WWqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878160137407-lg97ck5vve524a7orgnf8iuducdumkhl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
